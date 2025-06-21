@@ -1,0 +1,3 @@
+psycopg2-binary
+num2words
+urllib3
